@@ -4,3 +4,13 @@ footer{
     position:fixed; 
     bottom:0;
 }
+.middle-section{
+    padding:2%;
+    margin:2%;
+}
+.header{
+    width:100%;
+    border-bottom:1px solid black;
+    letter-spacing:5px;
+    background-image: linear-gradient(to right, red , orange, yellow, green, blue, purple);
+}
