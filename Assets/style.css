@@ -1,7 +1,11 @@
-body {
+.bodyTag {
     font-family: 'Lato', sans-serif;
-    background-color: #faebd7;
+    background-color: #fffed9;
     color: #413c3c;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
   }
   
   .overlay {
@@ -58,9 +62,22 @@ body {
 #name {
   text-align: center;
   vertical-align: middle;
-  font-size: 3cm;
+  font-size: 2cm;
 }
 
 .aboutMe {
-  font-family: 'Lato', sans-serif;
+  text-align: left;
+
+}
+
+.container {
+  padding-left: 40%;
+  padding-top: 14%;
+  align-content: center;
+  line-height: 30px;
+  padding-bottom: 14%;
+}
+
+#signature {
+  padding-left: 50%;
 }
