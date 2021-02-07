@@ -1,24 +1,22 @@
 # responsive-portfolio
 
-# Assignment Goal
+# deployed URL
+https://jourdangundersen.github.io/responsive-portfolio/
 
-The goal was to create a basic yet functional webpage that mainly needed to include:
-    - A navbar
-    - Functional tabs
-    - Items from Bootstrap 
-    - Sematic HTML
-    - Working links
+# technologies used
+HTML, CSS, Javascript, Bootstrap
 
-# Walkthrough of Webpage
+# my portfolio page
+This webpage is devoted to showcasing my work as a developer thus far and to make
+getting in contact with me easy for potential employers.
 
-Navbar: 
-Includes a "hamburger" drop down menu with links to various social media/account profiles of mine (GitHub, LinkedIn, and Instagram).  It also has my name and links to all 3 pages.
+# screenshots of deployed page
+![](Assets/screenshots-for-readme/indexpage.png)
+![](Assets/screenshots-for-readme/menu.png)
+![](Assets/screenshots-for-readme/aboutmepage.png)
+![](Assets/screenshots-for-readme/portfoliopage.png)
+![](Assets/screenshots-for-readme/contactmepage.png)
 
-Contact Page (contact.html): 
-There is a form with a button that fills the page.
-
-Portfolio Page (portfolio.html): 
-Currently there are images of a dog that fill this page, columns were used  in order to arrange the pictures on the page.
-
-About Me Page (index.html): 
-There is a photo of me that was stashed on my laptop that I included along with some text describing me.
+# contact information
+jourdancgundersen@gmail.com
+913-439-8833
