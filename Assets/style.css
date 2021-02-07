@@ -1,6 +1,6 @@
 .bodyTag {
-    font-family: 'Lato', sans-serif;
-    background-color: #fffed9;
+    font-family: 'Courier Prime';
+    background-color: white;
     color: #413c3c;
     margin-right: 5%;
     margin-left: 5%;
@@ -71,7 +71,7 @@
 }
 
 .container {
-  padding-left: 40%;
+  padding-left: 5%;
   padding-top: 14%;
   align-content: center;
   line-height: 30px;
@@ -79,5 +79,15 @@
 }
 
 #signature {
-  padding-left: 50%;
+  padding-left: 40%;
+}
+
+.info {
+  font-size: .5cm;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.projectName {
+  color: #413c3c;
 }
